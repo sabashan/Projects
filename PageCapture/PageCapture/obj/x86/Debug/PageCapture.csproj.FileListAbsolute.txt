@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\bin\Debug\PageCapture.exe
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\bin\Debug\PageCapture.pdb
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\obj\x86\Debug\PageCapture.Form1.resources
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\obj\x86\Debug\PageCapture.Properties.Resources.resources
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\obj\x86\Debug\PageCapture.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\obj\x86\Debug\PageCapture.exe
+C:\Users\User\Desktop\Library\PageCapture\PageCapture\obj\x86\Debug\PageCapture.pdb
